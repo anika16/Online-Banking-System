@@ -1,0 +1,19 @@
+.glow-on-hover {
+    width: 220px;
+    height: 51px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    font-size:18px;
+    background:transparent;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: #000000;
+}
+
+.buttons a button:hover{
+    color:black;
+    background-color: white;
+    border: 1px solid black;
+}

@@ -1,0 +1,23 @@
+.primary_btn {
+  box-shadow:inset 0px -3px 7px 0px #000000;
+  background-color:#000000;
+  border-radius:10px;
+  border:1px solid #000000;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:'Caveat', cursive, sans-serif;
+  font-size:15px;
+  padding:9px 23px;
+  text-align:center;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #000000;
+
+}
+.primary_btn:hover {
+  background-color:#000000;
+}
+.primary_btn:active {
+  position:relative;
+  top:1px;
+}
